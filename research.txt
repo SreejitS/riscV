@@ -1,0 +1,4 @@
+useful links:
+https://www.youtube.com/watch?v=4qBKOAv0sBI
+https://hackaday.com/2019/11/19/emulating-risc-v-on-an-fpga/
+https://riscv.org/risc-v-history/
