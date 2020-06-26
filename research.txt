@@ -2,3 +2,11 @@ useful links:
 https://www.youtube.com/watch?v=4qBKOAv0sBI
 https://hackaday.com/2019/11/19/emulating-risc-v-on-an-fpga/
 https://riscv.org/risc-v-history/
+https://gist.github.com/FrankBuss/c974e59826d33e21d7cad54491ab50e8
+https://hackaday.io/project/162397-nedopc-5
+https://blog.jessfraz.com/post/digging-into-risc-v-and-how-i-learn-new-things/
+https://github.com/MattPD/cpplinks/blob/master/assembly.riscv.md
+https://github.com/riscv
+https://www.sifive.com/resources/webinar/part-1-risc-v-101
+https://www.youtube.com/playlist?list=PL6noQ0vZDAdh_aGvqKvxd0brXImHXMuLY
+
