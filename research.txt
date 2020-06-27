@@ -9,4 +9,8 @@ https://github.com/MattPD/cpplinks/blob/master/assembly.riscv.md
 https://github.com/riscv
 https://www.sifive.com/resources/webinar/part-1-risc-v-101
 https://www.youtube.com/playlist?list=PL6noQ0vZDAdh_aGvqKvxd0brXImHXMuLY
-
+https://dantalion.nl/en/risc-v-rv32i-assembly-with-ripes-simulator/
+https://github.com/PeterAaser/RISCV-FiveStage
+http://labs.domipheus.com/blog/designing-a-cpu-in-vhdl-part-1-rationale-tools-method/
+https://github.com/cliffordwolf/picorv32
+https://github.com/MattPD/cpplinks/blob/master/assembly.riscv.md#open-source-hardware-projects
